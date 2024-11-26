@@ -47,7 +47,7 @@ git clone https://github.com/RishiR123/Radiation_Level_Prediction.git
 ```
 2. Navigate to the project directory:
 ```
-cd radiation-level-prediction
+cd Radiation_Level_Prediction
 ```
 
 ## Usage
