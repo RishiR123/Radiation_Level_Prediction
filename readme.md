@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```
-git clone RishiR123/Tier 2 - Intermediate/Radiation_Leve_Prediction
+git clone https://github.com/RishiR123/Radiation_Level_Prediction.git
 ```
 2. Navigate to the project directory:
 ```
